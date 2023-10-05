@@ -1,0 +1,17 @@
+C:\Users\Douglas\source\repos\AdressBok\AdressBok\bin\Debug\net7.0-windows\AdressBok.exe
+C:\Users\Douglas\source\repos\AdressBok\AdressBok\bin\Debug\net7.0-windows\AdressBok.deps.json
+C:\Users\Douglas\source\repos\AdressBok\AdressBok\bin\Debug\net7.0-windows\AdressBok.runtimeconfig.json
+C:\Users\Douglas\source\repos\AdressBok\AdressBok\bin\Debug\net7.0-windows\AdressBok.dll
+C:\Users\Douglas\source\repos\AdressBok\AdressBok\bin\Debug\net7.0-windows\AdressBok.pdb
+C:\Users\Douglas\source\repos\AdressBok\AdressBok\obj\Debug\net7.0-windows\AdressBok.Form1.resources
+C:\Users\Douglas\source\repos\AdressBok\AdressBok\obj\Debug\net7.0-windows\AdressBok.Form2.resources
+C:\Users\Douglas\source\repos\AdressBok\AdressBok\obj\Debug\net7.0-windows\AdressBok.csproj.GenerateResource.cache
+C:\Users\Douglas\source\repos\AdressBok\AdressBok\obj\Debug\net7.0-windows\AdressBok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\source\repos\AdressBok\AdressBok\obj\Debug\net7.0-windows\AdressBok.AssemblyInfoInputs.cache
+C:\Users\Douglas\source\repos\AdressBok\AdressBok\obj\Debug\net7.0-windows\AdressBok.AssemblyInfo.cs
+C:\Users\Douglas\source\repos\AdressBok\AdressBok\obj\Debug\net7.0-windows\AdressBok.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\source\repos\AdressBok\AdressBok\obj\Debug\net7.0-windows\AdressBok.dll
+C:\Users\Douglas\source\repos\AdressBok\AdressBok\obj\Debug\net7.0-windows\refint\AdressBok.dll
+C:\Users\Douglas\source\repos\AdressBok\AdressBok\obj\Debug\net7.0-windows\AdressBok.pdb
+C:\Users\Douglas\source\repos\AdressBok\AdressBok\obj\Debug\net7.0-windows\AdressBok.genruntimeconfig.cache
+C:\Users\Douglas\source\repos\AdressBok\AdressBok\obj\Debug\net7.0-windows\ref\AdressBok.dll
